@@ -1,9 +1,11 @@
-# Caring and Sharing-Foundation
+# Demo of Payment Gateway Integration with Razorpay
 
-Web Development and Designing internship at The Sparks Foundation
+![image](https://user-images.githubusercontent.com/68966575/126738232-681018d0-e8b0-47d2-9cbb-a75cea60521a.png)
 
-Task 3 : Payment Gateway Integration
+Build in accordance with the specifications of task-3 of GRIP by The Sparks Foundation.
 
--Built a fully responsive donation website in which I have used RazorPay payment gateway.
--It supports payments using credit/debit card , UPI , wallet , netbanking. 
--The payment gateway also sends an email and a receipt to the recipient's email-id.
+## Notable Features
+- Fully responsive design
+- Payment gateway integration using the Razorpay SDK
+- Support for Debit Card, Credit Card, UPI, Wallets and mutliple other sources
+- Provision of email receipt to the user upon successful completion of the payment.
